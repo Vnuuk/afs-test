@@ -1,0 +1,19 @@
+{
+  "name": "afstest",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vnuuk/afs-test.git"
+  },
+  "author": "Anton Nogin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vnuuk/afs-test/issues"
+  },
+  "homepage": "https://github.com/Vnuuk/afs-test#readme"
+}
